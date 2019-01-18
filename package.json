@@ -1,5 +1,5 @@
 {
-  "name": "@mstuart/common-schema",
+  "name": "mstuart-common-schema",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
